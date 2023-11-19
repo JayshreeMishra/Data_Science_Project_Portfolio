@@ -1,9 +1,10 @@
-# Data Science Methodology (Predict the Diagnosis of a Breast Cancer Patient)
+# Data Science Methodology 
+# 🎗️ Predict the Diagnosis of a Breast Cancer Patient
 
 This Project is a case study of my project Breast Cancer Diagnosis Prediction Model you can check out the project [Here](https://github.com/JayshreeMishra/Data_Science_Projects/tree/main/Project%203%20-%20Cancer%20Prediction)
 
 **Business Understanding stage** marks the initial step in the **Data Science Methodology**
-In this project, I leveraged the business problem demonstrate my understanding of the Business Understanding stage.
+In this project, I leveraged the business problem to demonstrate my understanding of the Business Understanding stage.
 Assuming the role of a data scientist,
 I articulated how I applied data science methodology practices at each of the listed stages to address the identified business problem.
 
@@ -31,7 +32,8 @@ Analytic Approach, Data Requirements, Data Collection, Data Understanding and Pr
    
 ### 5. Modeling and Evaluation:
     In the modeling stage, selecting a predictive model like Logistic Regression.
-    For model evaluation, splitting the data using the train-test split method and assessing accuracy, precision, recall, and F1-score for cancer prediction.
+    For model evaluation, splitting the data using the train-test split method and assessing accuracy, precision, recall, 
+    and F1-score for cancer prediction.
 
 
    
