@@ -58,5 +58,18 @@ This function takes three parameters (`stock_data`, `revenue_data`, and `stock`)
 2. Run the provided code sections to extract and visualize Tesla and GameStop stock data.
 3. Explore the interactive graphs to gain insights into the historical trends of share prices and revenues for the respective companies.
 
+## Note on Visualizations
+
+The Jupyter Notebook in this repository includes interactive visualizations that may not be visible directly on GitHub. GitHub provides a static view of Jupyter Notebooks, which means the code executes but doesn't display dynamic content such as plots.
+
+**Check Images Below:**
+
+##### Tesla Stock Graph
+![Tesla_stock_graph](https://github.com/JayshreeMishra/images/blob/main/tesla.png)
+
+##### GameStop Stock Graph
+![GameStop_Stock_Graph](https://github.com/JayshreeMishra/images/blob/main/gme.png)
+
+
 Feel free to customize the code or contribute to enhance the functionality of this project. If you encounter any issues, please refer to the documentation of the used libraries or create an issue in the repository.
 
