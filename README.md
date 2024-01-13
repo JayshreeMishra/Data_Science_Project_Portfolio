@@ -40,10 +40,9 @@ This project involves the analysis and visualization of historical wildfire data
 
 Visualizations explore different aspects of wildfire data, highlighting trends over time, distribution across regions, and relationships between various parameters.
 
-## 6. Rain Prediction in Australia
+## 6. SpaceX Falcon 9 First Stage Landing Prediction: A Data Science Capstone Project
 
-This project utilizes a rainfall dataset from the Australian Government's Bureau of Meteorology. It involves data cleaning and the application of various classification algorithms, including Linear Regression, KNN, Decision Trees, Logistic Regression, and SVM.
-
-Results are reported using accuracy, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, and R2-Score metrics.
+### Project Overview
+This project focuses on predicting the landing success of SpaceX Falcon 9 first-stage rockets. The process involves data collection, data wrangling, exploratory data analysis (EDA), and machine learning modeling. The project utilizes a variety of technologies and tools, including HTTP requests, Beautiful Soup for web scraping, Pandas DataFrames for data manipulation, SQL for analysis, and machine learning algorithms such as logistic regression, SVM, decision trees, and KNN for prediction.
 
 Feel free to explore each project for a deeper understanding of the methodologies and insights gained.
