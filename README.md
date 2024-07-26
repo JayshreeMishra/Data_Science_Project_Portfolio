@@ -51,7 +51,7 @@ This project focuses on predicting the landing success of SpaceX Falcon 9 first-
 
 In this project, we delve into the realm of retail data analysis, aiming to extract meaningful insights to support critical business decisions. As an entry-level data analyst at an online retail company, our focus is on unraveling patterns and trends hidden within transactional data.
 
-## Statistical Data Visualization with Seaborn
+## 8. Statistical Data Visualization with Seaborn
 
 ### Overview
 
