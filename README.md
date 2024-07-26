@@ -45,4 +45,16 @@ Visualizations explore different aspects of wildfire data, highlighting trends o
 ### Project Overview
 This project focuses on predicting the landing success of SpaceX Falcon 9 first-stage rockets. The process involves data collection, data wrangling, exploratory data analysis (EDA), and machine learning modeling. The project utilizes a variety of technologies and tools, including HTTP requests, Beautiful Soup for web scraping, Pandas DataFrames for data manipulation, SQL for analysis, and machine learning algorithms such as logistic regression, SVM, decision trees, and KNN for prediction.
 
+## 7. Exploratory Data Analysis on Retail Data
+
+### Overview
+
+In this project, we delve into the realm of retail data analysis, aiming to extract meaningful insights to support critical business decisions. As an entry-level data analyst at an online retail company, our focus is on unraveling patterns and trends hidden within transactional data.
+
+## Statistical Data Visualization with Seaborn
+
+### Overview
+
+This project employs the statistical data visualization library, Seaborn, to discover and explore relationships in the Breast Cancer Wisconsin (Diagnostic) dataset. The analysis includes exploratory data analysis (EDA), feature selection, and the application of a boosted decision tree classifier with XGBoost to classify tumors as either malignant or benign.
+
 Feel free to explore each project for a deeper understanding of the methodologies and insights gained.
